@@ -1,0 +1,27 @@
+body {
+    background: #EEEEEE;
+}
+header, section, footer {
+    max-width: 800px;
+    background: white;
+    margin: auto;
+    margin-top: 5px;
+    padding: 40px;
+}
+header {
+    text-align: center;  
+}
+.menu {
+    max-width: 800px;
+    height: 100px;
+    margin: auto;
+    text-align: center; 
+}
+footer {
+    text-align: center;
+}
+th, td {
+    padding: 10px;
+}
+
+
